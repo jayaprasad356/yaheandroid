@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "328187270255",
+    "project_id": "yahe-a91d7",
+    "storage_bucket": "yahe-a91d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328187270255:android:31dba9b56934bae3b8a99a",
+        "android_client_info": {
+          "package_name": "com.greymatter.yahe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328187270255-4oh2epi1ot6ifrudnkkkad6k1a6b294v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greymatter.yahe",
+            "certificate_hash": "8881fdd25c090af0389a1c16daa2b5a47b80e897"
+          }
+        },
+        {
+          "client_id": "328187270255-9gh1suemus4n1rmajmtenapsn7eo4saa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuBZrEpHj4lX7J4KRcNNUkrv6V7dgTbKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328187270255-9gh1suemus4n1rmajmtenapsn7eo4saa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
